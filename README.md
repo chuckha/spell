@@ -1,6 +1,10 @@
+This is pre pre pre alpha software. Just something to hack on in my spare time.
+
 # CLI
 
-spell file.go
+## Usage
+
+```spell file.go
 
 > wrod
 > wodr
@@ -13,3 +17,4 @@ file.go
 > wrod
 > wodr
 > owrd
+```
