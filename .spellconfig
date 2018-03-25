@@ -1,0 +1,9 @@
+{
+    "RootPath": ".",
+    "FileTypes": [
+        "go"
+    ],
+    "IgnoreDirs": [
+        ".git"
+    ]
+}
